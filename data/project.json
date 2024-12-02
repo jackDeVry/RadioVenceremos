@@ -399,10 +399,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Contexto político"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Efecto de sonido"
         },
         {
@@ -432,6 +428,6 @@
       ]
     },
     "created_at": "2024-12-02T15:46:03.288Z",
-    "updated_at": "2024-12-02T17:38:18.183Z"
+    "updated_at": "2024-12-02T17:38:20.878Z"
   }
 }
