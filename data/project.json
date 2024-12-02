@@ -1,1 +1,453 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"jackDeVry","is_private":false,"title":"Radio Venceremos","description":"Here it is!","language":"en","slug":"RadioVenceremos","creator":"jackDeVry","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Sonidos","color":"#ADFFD9"},{"category":"Tema","color":"#ADFEFF"},{"category":"Hablante","color":"#99E6FF"},{"category":"Persona","color":"#88C9F2"},{"category":"Lugar","color":"#99AFF2"},{"category":"_uncategorized_","color":"#A3A3A3"},{"category":"Juan Tito Díaz","color":"#C195DB"}],"tags":[{"tag":"Música","category":"Sonidos"},{"tag":"Efectos de Sonido","category":"Sonidos"},{"tag":"Poesía","category":"Sonidos"},{"tag":"Radio Venceremos","category":"Tema"},{"tag":"FMLN","category":"Tema"},{"tag":"Masacre de Junquillo","category":"Tema"},{"tag":"Violación","category":"Tema"},{"tag":"Contexto Político","category":"Tema"},{"tag":"Poderes Creadores del Pueblo","category":"Tema"},{"tag":"Plomo Informativo","category":"Tema"},{"tag":"EEUU","category":"Tema"},{"tag":"Internacional","category":"Tema"},{"tag":"Asesinatos","category":"Tema"},{"tag":"Regis Debray","category":"Tema"},{"tag":"Sindicato","category":"Tema"},{"tag":"Enfrentamiento","category":"Tema"},{"tag":"Bajas","category":"Tema"},{"tag":"Tortura","category":"Tema"},{"tag":"Explotación","category":"Tema"},{"tag":"Movimiento Nacional Revolucionario","category":"Tema"},{"tag":"Terrorismo","category":"Tema"},{"tag":"Organización para la Liberación de Palestina","category":"Tema"},{"tag":"Poema","category":"Tema"},{"tag":"Reporte","category":"Tema"},{"tag":"Violencia contra niños","category":"Tema"},{"tag":"Globo informativo","category":"Tema"},{"tag":"Ecuador","category":"Tema"},{"tag":"Mexico","category":"Tema"},{"tag":"Combate","category":"Tema"},{"tag":"Honduras","category":"Tema"},{"tag":"Desaparecidos","category":"Tema"},{"tag":"Venezuela","category":"Tema"},{"tag":"José Martí","category":"Tema"},{"tag":"Cruz Roja","category":"Tema"},{"tag":"Costa Rica","category":"Tema"},{"tag":"la masacre de El Mozote","category":"Tema"},{"tag":"Ronald Reagan","category":"Tema"},{"tag":"Capturados","category":"Tema"},{"tag":"Juan Tito Díaz","category":"Hablante"},{"tag":"Gregorio Seltzer","category":"Hablante"},{"tag":"Pierre Schori","category":"Hablante"},{"tag":"Francisco Sánchez","category":"Persona"},{"tag":"Entrevistador","category":"Persona"},{"tag":"Sobreviviente","category":"Persona"},{"tag":"Juan Tito Díaz","category":"Persona"},{"tag":"Victoria Chica","category":"Persona"},{"tag":"Che Guevara","category":"Persona"},{"tag":"Francisco Emilio Mena Sandoval","category":"Persona"},{"tag":"Argueta Sánchez","category":"Persona"},{"tag":"Jaime Roldós","category":"Persona"},{"tag":"Alexander Haig","category":"Persona"},{"tag":"Carlos Andrés Pérez","category":"Persona"},{"tag":"Guillermo Manuel Ungo","category":"Persona"},{"tag":"Michael Hammer","category":"Persona"},{"tag":"Rogelio Ponseele","category":"Persona"},{"tag":"Rufina Amaya","category":"Persona"},{"tag":"José Leoncio Pichinte","category":"Persona"},{"tag":"Morazán","category":"Lugar"},{"tag":"Chalatenango","category":"Lugar"},{"tag":"Cabañas","category":"Lugar"},{"tag":"La Paz","category":"Lugar"},{"tag":"Usulután","category":"Lugar"},{"tag":"San Miguel","category":"Lugar"},{"tag":"La Union","category":"Lugar"},{"tag":"Cuscatlán","category":"Lugar"},{"category":"Juan Tito Díaz","tag":"Hablante"},{"category":"Juan Tito Díaz","tag":"Hablante"},{"category":"Juan Tito Díaz","tag":"Hablante"},{"category":"Juan Tito Díaz","tag":"Hablante"},{"category":"Juan Tito Díaz","tag":"hablante"},{"category":"Juan Tito Díaz","tag":"Hablante"},{"category":"Juan Tito Díaz","tag":"Hablante"},{"category":"Juan Tito Díaz","tag":"Hablante"},{"category":"Juan Tito Díaz","tag":"Hablante"},{"category":"Juan Tito Díaz","tag":"Hablante"},{"category":"Juan Tito Díaz","tag":"Hablante"},{"category":"Juan Tito Díaz","tag":"Hablante"},{"category":"Juan Tito Díaz","tag":"Hablante"},{"category":"Juan Tito Díaz","tag":"Hablante"},{"category":"_uncategorized_","tag":"asesinatos"},{"category":"_uncategorized_","tag":"Radio venceremos"},{"category":"_uncategorized_","tag":"Prisioneros"},{"category":"_uncategorized_","tag":"Armamento"},{"category":"Tema","tag":"Masacre"},{"category":"Tema","tag":"El Junquillo"},{"category":"Tema","tag":"Contexto Político "},{"category":"Tema","tag":"Sindicate "},{"category":"Tema","tag":"Enfrentamientos "},{"category":"Sonidos","tag":"Música "},{"category":"Sonidos","tag":"Efecto de Sonido  "},{"category":"Lugar","tag":"Morazán "},{"category":"_uncategorized_","tag":"Contexto político"},{"category":"_uncategorized_","tag":"Efecto de sonido"},{"category":"_uncategorized_","tag":"Sindicate"},{"category":"Tema","tag":"Los Poderes Creadores del Pueblo "},{"category":"Tema","tag":"Derechos humanos"},{"category":"Tema","tag":"Sabotaje"},{"category":"Tema","tag":"Globo Informativo "},{"category":"Tema","tag":"Violación "},{"category":"Tema","tag":"Violencia contra niños "}]},"created_at":"2024-12-02T15:46:03.288Z","updated_at":"2024-12-02T17:37:52.361Z"}}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "jackDeVry",
+    "is_private": false,
+    "title": "Radio Venceremos",
+    "description": "Here it is!",
+    "language": "en",
+    "slug": "RadioVenceremos",
+    "creator": "jackDeVry",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Sonidos",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Tema",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Hablante",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Persona",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "Lugar",
+          "color": "#99AFF2"
+        },
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        },
+        {
+          "category": "Juan Tito Díaz",
+          "color": "#C195DB"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        },
+        {
+          "tag": "Efectos de Sonido",
+          "category": "Sonidos"
+        },
+        {
+          "tag": "Poesía",
+          "category": "Sonidos"
+        },
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        },
+        {
+          "tag": "Masacre de Junquillo",
+          "category": "Tema"
+        },
+        {
+          "tag": "Violación",
+          "category": "Tema"
+        },
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        },
+        {
+          "tag": "Poderes Creadores del Pueblo",
+          "category": "Tema"
+        },
+        {
+          "tag": "Plomo Informativo",
+          "category": "Tema"
+        },
+        {
+          "tag": "EEUU",
+          "category": "Tema"
+        },
+        {
+          "tag": "Internacional",
+          "category": "Tema"
+        },
+        {
+          "tag": "Asesinatos",
+          "category": "Tema"
+        },
+        {
+          "tag": "Regis Debray",
+          "category": "Tema"
+        },
+        {
+          "tag": "Sindicato",
+          "category": "Tema"
+        },
+        {
+          "tag": "Enfrentamiento",
+          "category": "Tema"
+        },
+        {
+          "tag": "Bajas",
+          "category": "Tema"
+        },
+        {
+          "tag": "Tortura",
+          "category": "Tema"
+        },
+        {
+          "tag": "Explotación",
+          "category": "Tema"
+        },
+        {
+          "tag": "Movimiento Nacional Revolucionario",
+          "category": "Tema"
+        },
+        {
+          "tag": "Terrorismo",
+          "category": "Tema"
+        },
+        {
+          "tag": "Organización para la Liberación de Palestina",
+          "category": "Tema"
+        },
+        {
+          "tag": "Poema",
+          "category": "Tema"
+        },
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        },
+        {
+          "tag": "Violencia contra niños",
+          "category": "Tema"
+        },
+        {
+          "tag": "Globo informativo",
+          "category": "Tema"
+        },
+        {
+          "tag": "Ecuador",
+          "category": "Tema"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Tema"
+        },
+        {
+          "tag": "Combate",
+          "category": "Tema"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Tema"
+        },
+        {
+          "tag": "Desaparecidos",
+          "category": "Tema"
+        },
+        {
+          "tag": "Venezuela",
+          "category": "Tema"
+        },
+        {
+          "tag": "José Martí",
+          "category": "Tema"
+        },
+        {
+          "tag": "Cruz Roja",
+          "category": "Tema"
+        },
+        {
+          "tag": "Costa Rica",
+          "category": "Tema"
+        },
+        {
+          "tag": "la masacre de El Mozote",
+          "category": "Tema"
+        },
+        {
+          "tag": "Ronald Reagan",
+          "category": "Tema"
+        },
+        {
+          "tag": "Capturados",
+          "category": "Tema"
+        },
+        {
+          "tag": "Juan Tito Díaz",
+          "category": "Hablante"
+        },
+        {
+          "tag": "Gregorio Seltzer",
+          "category": "Hablante"
+        },
+        {
+          "tag": "Pierre Schori",
+          "category": "Hablante"
+        },
+        {
+          "tag": "Francisco Sánchez",
+          "category": "Persona"
+        },
+        {
+          "tag": "Entrevistador",
+          "category": "Persona"
+        },
+        {
+          "tag": "Sobreviviente",
+          "category": "Persona"
+        },
+        {
+          "tag": "Juan Tito Díaz",
+          "category": "Persona"
+        },
+        {
+          "tag": "Victoria Chica",
+          "category": "Persona"
+        },
+        {
+          "tag": "Che Guevara",
+          "category": "Persona"
+        },
+        {
+          "tag": "Francisco Emilio Mena Sandoval",
+          "category": "Persona"
+        },
+        {
+          "tag": "Argueta Sánchez",
+          "category": "Persona"
+        },
+        {
+          "tag": "Jaime Roldós",
+          "category": "Persona"
+        },
+        {
+          "tag": "Alexander Haig",
+          "category": "Persona"
+        },
+        {
+          "tag": "Carlos Andrés Pérez",
+          "category": "Persona"
+        },
+        {
+          "tag": "Guillermo Manuel Ungo",
+          "category": "Persona"
+        },
+        {
+          "tag": "Michael Hammer",
+          "category": "Persona"
+        },
+        {
+          "tag": "Rogelio Ponseele",
+          "category": "Persona"
+        },
+        {
+          "tag": "Rufina Amaya",
+          "category": "Persona"
+        },
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        },
+        {
+          "tag": "Morazán",
+          "category": "Lugar"
+        },
+        {
+          "tag": "Chalatenango",
+          "category": "Lugar"
+        },
+        {
+          "tag": "Cabañas",
+          "category": "Lugar"
+        },
+        {
+          "tag": "La Paz",
+          "category": "Lugar"
+        },
+        {
+          "tag": "Usulután",
+          "category": "Lugar"
+        },
+        {
+          "tag": "San Miguel",
+          "category": "Lugar"
+        },
+        {
+          "tag": "La Union",
+          "category": "Lugar"
+        },
+        {
+          "tag": "Cuscatlán",
+          "category": "Lugar"
+        },
+        {
+          "category": "Juan Tito Díaz",
+          "tag": "Hablante"
+        },
+        {
+          "category": "Juan Tito Díaz",
+          "tag": "Hablante"
+        },
+        {
+          "category": "Juan Tito Díaz",
+          "tag": "Hablante"
+        },
+        {
+          "category": "Juan Tito Díaz",
+          "tag": "Hablante"
+        },
+        {
+          "category": "Juan Tito Díaz",
+          "tag": "hablante"
+        },
+        {
+          "category": "Juan Tito Díaz",
+          "tag": "Hablante"
+        },
+        {
+          "category": "Juan Tito Díaz",
+          "tag": "Hablante"
+        },
+        {
+          "category": "Juan Tito Díaz",
+          "tag": "Hablante"
+        },
+        {
+          "category": "Juan Tito Díaz",
+          "tag": "Hablante"
+        },
+        {
+          "category": "Juan Tito Díaz",
+          "tag": "Hablante"
+        },
+        {
+          "category": "Juan Tito Díaz",
+          "tag": "Hablante"
+        },
+        {
+          "category": "Juan Tito Díaz",
+          "tag": "Hablante"
+        },
+        {
+          "category": "Juan Tito Díaz",
+          "tag": "Hablante"
+        },
+        {
+          "category": "Juan Tito Díaz",
+          "tag": "Hablante"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "asesinatos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio venceremos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Prisioneros"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Armamento"
+        },
+        {
+          "category": "Tema",
+          "tag": "Masacre"
+        },
+        {
+          "category": "Tema",
+          "tag": "El Junquillo"
+        },
+        {
+          "category": "Tema",
+          "tag": "Contexto Político "
+        },
+        {
+          "category": "Tema",
+          "tag": "Sindicate "
+        },
+        {
+          "category": "Tema",
+          "tag": "Enfrentamientos "
+        },
+        {
+          "category": "Sonidos",
+          "tag": "Música "
+        },
+        {
+          "category": "Sonidos",
+          "tag": "Efecto de Sonido  "
+        },
+        {
+          "category": "Lugar",
+          "tag": "Morazán "
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Contexto político"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Efecto de sonido"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sindicate"
+        },
+        {
+          "category": "Tema",
+          "tag": "Los Poderes Creadores del Pueblo "
+        },
+        {
+          "category": "Tema",
+          "tag": "Derechos humanos"
+        },
+        {
+          "category": "Tema",
+          "tag": "Sabotaje"
+        },
+        {
+          "category": "Tema",
+          "tag": "Globo Informativo "
+        },
+        {
+          "category": "Tema",
+          "tag": "Violación "
+        }
+      ]
+    },
+    "created_at": "2024-12-02T15:46:03.288Z",
+    "updated_at": "2024-12-02T17:37:57.281Z"
+  }
+}
