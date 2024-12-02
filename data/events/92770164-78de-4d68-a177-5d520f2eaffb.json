@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "27c83b75-e476-4e00-bcd6-6e3e9956279e": {
+      "label": "31 de Diciembre, 1981 ",
+      "is_offline": false,
+      "file_url": "https://ia902706.us.archive.org/29/items/19811231-am/19811231AM.mp3",
+      "duration": 2841
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "31 de Diciembre, 1981 - AM",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "YES Reached"
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-12-02T15:53:03.395Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2024-12-02T15:53:03.395Z",
+  "updated_by": "jackDeVry"
+}
