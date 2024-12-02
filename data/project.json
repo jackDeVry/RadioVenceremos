@@ -362,10 +362,6 @@
           "tag": "Enfrentamientos "
         },
         {
-          "category": "Lugar",
-          "tag": "Morazán "
-        },
-        {
           "category": "Tema",
           "tag": "Los Poderes Creadores del Pueblo "
         },
@@ -392,6 +388,6 @@
       ]
     },
     "created_at": "2024-12-02T15:46:03.288Z",
-    "updated_at": "2024-12-02T17:44:09.403Z"
+    "updated_at": "2024-12-02T17:44:36.115Z"
   }
 }
