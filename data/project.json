@@ -367,10 +367,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Radio venceremos"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Prisioneros"
         },
         {
@@ -440,6 +436,6 @@
       ]
     },
     "created_at": "2024-12-02T15:46:03.288Z",
-    "updated_at": "2024-12-02T17:38:04.284Z"
+    "updated_at": "2024-12-02T17:38:08.364Z"
   }
 }
