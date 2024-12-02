@@ -9,7 +9,7 @@
     "github_org": "jackDeVry",
     "is_private": false,
     "title": "Radio Venceremos",
-    "description": "Here it is!",
+    "description": "Radio Venceremos Research Project",
     "language": "en",
     "slug": "RadioVenceremos",
     "creator": "jackDeVry",
@@ -388,6 +388,8 @@
       ]
     },
     "created_at": "2024-12-02T15:46:03.288Z",
-    "updated_at": "2024-12-02T17:44:36.115Z"
-  }
+    "updated_at": "2024-12-02T18:29:13.633Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
 }
